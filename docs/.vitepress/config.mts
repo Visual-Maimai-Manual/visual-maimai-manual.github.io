@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/vmmanual/',
+  base: '/',
   title: "Visual Maimai文档",
   description: "A VitePress Site",
   
