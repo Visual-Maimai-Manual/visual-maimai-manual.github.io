@@ -1,4 +1,4 @@
-![visual maimai介绍视频封面](photo/vmheadphoto.jpg)  
+![visual maimai介绍视频封面](docs/photo/vmheadphoto.jpg)  
 [English](README_EN.md)  
 # Visual Maimai是什么
 Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视化的操作方式，将舞萌DX自制谱的难度降低。  
