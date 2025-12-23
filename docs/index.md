@@ -12,10 +12,10 @@ hero:
       link: https://www.bilibili.com/video/BV1zLtveZEKP
     - theme: brand
       text: 文档
-      link: /intro/what-is-vm
+      link: /cn/intro/what-is-vm
     - theme: brand
       text: 下载
-      link: /download
+      link: /cn/intro/download
 
 features:
   - title: Note放置
