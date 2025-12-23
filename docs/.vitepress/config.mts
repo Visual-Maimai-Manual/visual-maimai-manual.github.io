@@ -32,7 +32,7 @@ export default defineConfig({
         text: '简介',
         items: [
           { text: '什么是Visual Maimai', link: '/intro/what-is-vm' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '下载Visual Maimai', link: '/download' }
         ]
       }
     ],
