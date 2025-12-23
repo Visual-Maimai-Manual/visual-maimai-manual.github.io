@@ -44,7 +44,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io' },
+      { icon: 'discord', link: 'https://discord.gg/R5eGkMk9Pj' } 
     ]
   }
 })
