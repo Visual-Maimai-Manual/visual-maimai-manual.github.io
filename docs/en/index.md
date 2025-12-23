@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Visual Maimai User Manual"
-  text: "A User Manual About Visualization Chart Maker For MaimaiDX"
+  text: "A User Manual About Visualization Chart Maker For maimaiDX"
   tagline: Let's 牛乳 DANCE!!!!!!! 
   actions:
     - theme: brand
@@ -12,10 +12,10 @@ hero:
       link: https://www.bilibili.com/video/BV1zLtveZEKP
     - theme: brand
       text: Manual
-      link: /intro/what-is-vm
+      link: /en/intro/what-is-vm
     - theme: brand
       text: Download
-      link: /intro/download
+      link: /en/intro/download
 
 features:
   - title: Place the Notes

@@ -1,51 +1,36 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
+import { zhNav, enNav } from './nav/index'
+import { zhSidebar, enSidebar } from './sidebar/index'
+
+
 export default defineConfig({
   base: '/',
-  title: "Visual Maimai文档",
-  description: "A VitePress Site",
-  
+  title: "Visual Maimai",
+  description: " A Manual About Visual Maimai",
   locales: {
     root: {
       label: '中文（简体）',
-      lang: 'cn'
+      lang: 'zh-CN',
+      themeConfig: {
+        nav: zhNav,
+        sidebar: zhSidebar
+      }
     },
     en: {
       label: 'English',
       lang: 'en',
-      link: '/en/'
+      link: '/en/',
+      themeConfig: {
+        nav: enNav,
+        sidebar: enSidebar
+      }
     }
   },
-
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    
-    nav: [
-      { text: '主页', link: '/' },
-      { text: '文档', link: '/intro/what-is-vm' },
-      { text: '下载', link: '/intro/download' }
-    ],
-
-    sidebar: [
-      {
-        text: '简介',
-        items: [
-          { text: '什么是Visual Maimai', link: '/intro/what-is-vm' },
-          { text: '下载Visual Maimai', link: '/intro/download' }
-        ]
-      },
-      {
-        text: '入门',
-        items: [
-          { text: 'Visual Maimai的页面', link: '/guide/gui' }
-        ]
-        }
-    ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io' },
-      { icon: 'discord', link: 'https://discord.gg/R5eGkMk9Pj' } 
+      { icon: 'discord', link: 'https://discord.gg/R5eGkMk9Pj' }
     ]
   }
 })
