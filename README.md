@@ -31,4 +31,6 @@ git push
 （注：如果不满意，上传完成后毋须再次执行步骤4、5、6，只需要等一下即可看到你写的效果） 
 8. 回到你的仓库，点击“Contribute”并点击“Open Pull Request”，等待审核完成
 # 贡献者
-![https://contrib.rocks/image?repo=Visual-Maimai-Manual/visual-maimai-manual.github.io](https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/graphs/contributors)
+<a href="https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Visual-Maimai-Manual/visual-maimai-manual.github.io" />
+</a>
