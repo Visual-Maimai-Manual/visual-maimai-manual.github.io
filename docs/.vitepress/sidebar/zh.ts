@@ -11,7 +11,9 @@ export const zhSidebar: DefaultTheme.Sidebar = [
       {
         text: '入门',
         items: [
-          { text: 'Visual Maimai的页面', link: '/guide/gui' }
+          { text: 'Visual Maimai的页面', link: '/guide/gui' },
+          { text: '制谱', link: '/guide/make-charts'}
+
         ]
         }
     ]

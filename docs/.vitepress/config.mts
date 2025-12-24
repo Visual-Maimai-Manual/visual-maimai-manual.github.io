@@ -1,20 +1,17 @@
 import { defineConfig } from 'vitepress'
-
-import { zhNav, enNav } from './nav/index'
-import { zhSidebar, enSidebar } from './sidebar/index'
-
+import { zhNav, enNav } from './nav'
+import { zhSidebar, enSidebar } from './sidebar'
+import { zhSearch } from './minisearch/zh'
 
 export default defineConfig({
-  base: '/',
-  title: "Visual Maimai",
-  description: " A Manual About Visual Maimai",
   locales: {
     root: {
       label: '中文（简体）',
       lang: 'zh-CN',
       themeConfig: {
         nav: zhNav,
-        sidebar: zhSidebar
+        sidebar: zhSidebar,
+        search: zhSearch
       }
     },
     en: {
@@ -23,7 +20,7 @@ export default defineConfig({
       link: '/en/',
       themeConfig: {
         nav: enNav,
-        sidebar: enSidebar
+        sidebar: enSidebar,
       }
     }
   },

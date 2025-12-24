@@ -11,7 +11,8 @@ export const enSidebar: DefaultTheme.Sidebar = [
     {
      text: 'Get Started',
      items:[
-        { text: 'About Visual Maimai`s GUI', link: '/en/guide/gui'}
+        { text: 'About Visual Maimai`s GUI', link: '/en/guide/gui'},
+        { text: 'Make Charts', link: '/en/guide/make-charts'}
     ]
   }
 ]

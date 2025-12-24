@@ -30,6 +30,18 @@ git push
 7. 等待部署完成，在浏览器打开“你的用户名.github.io”，预览你写的文章。  
 （注：如果不满意，上传完成后毋须再次执行步骤4、5、6，只需要等一下即可看到你写的效果） 
 8. 回到你的仓库，点击“Contribute”并点击“Open Pull Request”，等待审核完成
+# 在本地部署
+> ![NOTE]
+> 请先安装nodejs与npm
+1. 先将本仓库clone到你的电脑
+2. 打开仓库，在终端运行：
+```
+npm install
+```
+3. 如果你要修改页面，请运行：
+```
+npm run docs:dev # 随后在浏览器访问页面，修改完成后，保存等待刷新即可看到
+```
 # 贡献者
 <a href="https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Visual-Maimai-Manual/visual-maimai-manual.github.io" />
