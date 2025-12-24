@@ -3,6 +3,8 @@ import { zhNav, enNav } from './nav'
 import { zhSidebar, enSidebar } from './sidebar'
 
 export default defineConfig({
+  title: "Visual Maimai", 
+  description: "A Manual About Visual Maimai", 
   locales: {
     root: {
       label: '中文（简体）',
