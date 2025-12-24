@@ -1,0 +1,5 @@
+docs/.vscode/settings.json
+package-lock.json
+package.json
+node_modules/
+docs/.vitepress/cache/deps/_metadata.json
