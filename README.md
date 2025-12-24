@@ -9,7 +9,7 @@ Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视�
 - QQ群号：947421931
 # 作出修改/贡献
 如果你发现该文档有部分错误或过时信息，欢迎进行修改。
-> ![NOTE]
+> **NOTE** <br>
 > 请先安装git，并且需要学习一定的Markdown语言
 1. 先将本仓库[Fork到你的Github账户下面](https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/fork)  
 注：最好是先将仓库名改为“你的用户名.github.io”以确保可以预览效果
@@ -31,8 +31,8 @@ git push
 （注：如果不满意，上传完成后毋须再次执行步骤4、5、6，只需要等一下即可看到你写的效果） 
 8. 回到你的仓库，点击“Contribute”并点击“Open Pull Request”，等待审核完成
 # 在本地部署
-> ![NOTE]  
-> 请先安装nodejs与npm
+> [!NOTE]
+> 请先安装npm与NodeJS
 1. 先将本仓库clone到你的电脑
 2. 打开仓库，在终端运行：
 ```
