@@ -1,2 +1,4 @@
 node_modules/
 docs/.vitepress/cache/deps/*
+package-lock.json
+docs/.vitepress/cache/deps/_metadata.json
