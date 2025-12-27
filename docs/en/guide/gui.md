@@ -1,46 +1,64 @@
-# Visual Maimai的操作界面
+# Visual Maimai's Interface
 > [!WARNING]
 > There is no translate now,but soon.
 
 > [!TIP]
 > 本文较长，推荐按照旁边的目录来快速阅读或者找到你所需要了解的地方。
+> This article is a bit long,I recommend following the list to find what do you need.
 
-下载完Visual Maimai并运行后，你会看到以下的页面：
-![VMGUI](/photo/vmgui.jpg)
-我们分区域讲解功能。
-## 菜单
-菜单区域分三个选项，分别是：文件、编辑、选项。
-### 文件
+下载完Visual Maimai并运行后，你会看到以下的页面：  
+When you running Visual Maimai,you will see this interface:  
+![VMGUI](/en/photo/vmgui_en.png)
+我们分区域讲解功能。  
+We'll explain it each area. 
+## Menu
+菜单区域分三个选项，分别是：文件、编辑、选项。  
+The Menu area have 3 options:File,Edit,Options.
+### File
 点击文件选项，你可以看到下面的菜单：  
-![文件](/photo/vm文件.png)
-#### 打开  
-打开的功能可以调出文件选择器里面选择音乐文件，如果选择的文件所属文件夹内有pv.mp4，则会自动把BGA导入谱面；如果选择的文件所属文件夹内有maidata.txt，则会自动将谱面导入Visual Maimai，可在轨道区域里面看到。同时，如果你没有导入音乐文件，Visual Maimai将无法制作谱面文件（无法在轨道区域内创建note）
-#### 保存  
-顾名思义，可以将谱面文件以maidata的格式保存在maidata.txt，同时也会在chart.json里面保存谱面的元数据（Metadata）
-#### 导入maidata  
-如果你已经有了一份maidata.txt文件，那么可以通过该功能把谱面导入Visual Maimai并进行编辑。
-#### 导出谱面
-将谱面导出为maidata文件，没有BGA也没有封面，可以直接导入[Majdata](https://majdata.net/edit)以进行视频录制。
-#### 导出为压缩包
-可以将谱面导出为zip格式，可以自行修改后缀名为adx以载入[AstroDX](https://wiki.astrodx.com/cn)以进行游玩。
+In file options,you can see these:  
+![文件](/en/photo/vmfile.png)
+#### Open  
+打开的功能可以调出文件选择器里面选择音乐文件，如果选择的文件所属文件夹内有pv.mp4，则会自动把BGA导入谱面；如果选择的文件所属文件夹内有maidata.txt，则会自动将谱面导入Visual Maimai，可在轨道区域里面看到。  
+"Open" only can choose song file (MP3/OGG),if the song file in the folder where there is maidata.txt or pv.mp4,Visual Maimai will automaticlly import the chart or PV.  
+同时，如果你没有导入音乐文件，Visual Maimai将无法制作谱面文件（无法在轨道区域内创建note）  
+And,if you didn't import the song file,you'll can't place note at the track.
+#### Save  
+顾名思义，可以将谱面文件以maidata的格式保存在maidata.txt，同时也会在chart.json里面保存谱面的元数据（Metadata）  
+As the name implies,it can save chart by maidata,save to maidata.txt,and also save the metadata at chart.json.
+#### Import maidata  
+如果你已经有了一份maidata.txt文件，那么可以通过该功能把谱面导入Visual Maimai并进行编辑。  
+If you already have a maidata.txt file,then you can import charts by this feature.
+#### Export chart
+将谱面导出为maidata文件，没有BGA也没有封面，可以直接导入[Majdata](https://majdata.net/edit)以进行视频录制。  
+Let chart export as maidata,no PV and no cover,can import to Majdata directly to record the chart video.
+#### Export as zip
+可以将谱面导出为zip格式，可以自行修改后缀名为adx以载入[AstroDX](https://wiki.astrodx.com/cn)以进行游玩。  
+It can export charts as ZIP file,you can change the extension to ADX for load to AstroDX for play.
 #### 重载谱面文件
-#### 开启谱面共享/加入谱面共享
+#### Enable/Join Chart Sharing
 1.3.0版本新功能，可以通过内网（或者内网穿透）以与其他谱面制作者协作创作谱面。
-#### 谱面统计
+New ferature of 1.3.0,Can share the charts by intranet to collaborative create charts.
+#### Total Note Summary
 可以统计谱面内有多少Note，如下图：  
-![谱面统计SAMPLE](/photo/vm谱面统计.png)
-#### 全屏预览/导出视频
+Can summary how many notes do the charts have,example this:   
+![谱面统计SAMPLE](/en/photo/vmsummary.png)
+#### Fullscreen Preview/Export Video
 可以直接在Visual Maimai内全屏预览谱面，第二个可以导出视频。
+Can previev charts at Visual Maimai for fullscreen,the second one can export the chart video.  
 
-### 编辑
+### Edit
 点击编辑选项，你可以看到下面的菜单：  
-![编辑](/photo/vm编辑.png)
-#### 撤销/重做
+In edit opitions,you can see this:    
+![编辑](/en/photo/vmedit.png)
+#### Undo/Redo
 可以把操作回退到上一步，或者把回退的操作恢复。
-#### 全选/取消选中
-可以把在轨道区域内的所有note全部选中，或者取消选中。
-#### 复制/剪切/粘贴/删除
-可以将你选中的note复制到VM自带的剪切板（剪切为将已经写上的Note删掉并复制），选择位置后粘贴。选中的地方可以按DEL删除。
+#### Select All/Cancel Selection
+可以把在轨道区域内的所有note全部选中，或者取消选中。  
+It can select all notes where in the track,or cancel selection.
+#### Copy/Cut/Paste/Delete
+可以将你选中的note复制到VM自带的剪切板（剪切为将已经写上的Note删掉并复制），选择位置后粘贴。选中的地方可以按DEL删除。  
+It can let the selected note copy to copyboard,(Cut is remove and copy),then choose a place to paste. You can press DEL to remove notes if it's selected.
 #### 左右/上下翻转、顺时针/逆时针旋转45°
 - 翻转  
 将选中的Note左右/上下翻转，不保留未翻转前的note 
