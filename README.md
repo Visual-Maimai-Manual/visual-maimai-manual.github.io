@@ -21,7 +21,7 @@ Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视�
 注：最好是先将仓库名改为“你的用户名.github.io”以确保可以预览效果
 2. 将Fork后的文档clone到你的电脑
 ```
-https://github.com/你的用户名/visual-maimai-manual.github.io.git
+https://github.com/你的用户名/你的用户名.github.io.git
 ```
 3. 使用Markdown编写，并推送到你的仓库里面
 ```
