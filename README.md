@@ -1,18 +1,20 @@
 ![visual maimai介绍视频封面](docs/photo/vmheadphoto.jpg)  
 [English](README_EN.md)  
-![Lisence](https://img.shields.io/badge/Lisence-CC_BY_NC_SA_4.0-green)
-![QQ](https://img.shields.io/badge/QQ-947421931-blue?logo=qq)
-![Github](https://img.shields.io/badge/Github-VM_Release-b39fe8?logo=github&link=github.com%2FCH3COOOHH%2FVisual-Maimai-Release%2Freleases)
-![Discord](https://img.shields.io/discord/1410230993691873474?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FR5eGkMk9Pj)
-![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?link=https%3A%2F%2Fgithub.com%2FCH3COOOHH%2FVisual-Maimai-Release%2Freleases)
-
+[![Lisence](https://img.shields.io/badge/CC_BY_NC_SA-grey?style=for-the-badge&logo=creativecommons&logoColor=white)][ccbyncsa]
+![QQ](https://img.shields.io/badge/QQ_947421931-blue?style=for-the-badge&logo=qq&logoColor=white)
+[![Github](https://img.shields.io/badge/Latest-1.3.0-brightgreen?style=for-the-badge&logo=github
+)](https://github.com/CH3COOOHH/Visual-Maimai-Release/releases)
+[![Discord](https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=Discord&logoColor=white
+)](https://discord.gg/R5eGkMk9Pj)
+[![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=github)](https://github.com/CH3COOOHH/Visual-Maimai-Release)
 # Visual Maimai是什么
 Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视化的操作方式，将舞萌DX自制谱的难度降低。  
 神奇的vm纺纱机会将可视化和simai融为一体，这不神奇吗，点击[链接](https://github.com/CH3COOOHH/Visual-Maimai-Release)获取一个获取一个获取一个获取一个（绝美jiafei叫声）
 # 开始阅读
-- [文档](https://visual-maimai-manual.github.io/)
-- 加入Discord服务器![Discord](https://img.shields.io/discord/1410230993691873474?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FR5eGkMk9Pj)
-- QQ群号：947421931
+[![文档](https://img.shields.io/badge/在线文档-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
+)](https://visual-maimai-manual.github.io/)  
+[![Discord](https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/R5eGkMk9Pj)  
+![QQ](https://img.shields.io/badge/QQ_947421931-blue?style=for-the-badge&logo=qq&logoColor=white)  
 # 作出修改/贡献
 如果你发现该文档有部分错误或过时信息，欢迎进行修改。
 > **NOTE** <br>
@@ -37,7 +39,7 @@ git push
 （注：如果不满意，上传完成后毋须再次执行步骤4、5、6，只需要等一下即可看到你写的效果） 
 8. 回到你的仓库，点击“Contribute”并点击“Open Pull Request”，等待审核完成
 # 在本地部署
-> [!NOTE]
+> **NOTE**  
 > 请先安装npm与NodeJS
 1. 先将本仓库clone到你的电脑
 2. 打开仓库，在终端运行：
