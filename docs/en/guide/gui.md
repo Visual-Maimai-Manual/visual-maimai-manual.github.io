@@ -17,7 +17,7 @@ The Menu area have 3 options:File,Edit,Options.
 ### File
 点击文件选项，你可以看到下面的菜单：  
 In file options,you can see these:  
-![文件](/en/photo/vmfile.png)
+![File](/en/photo/vmfile.png)
 #### Open  
 打开的功能可以调出文件选择器里面选择音乐文件，如果选择的文件所属文件夹内有pv.mp4，则会自动把BGA导入谱面；如果选择的文件所属文件夹内有maidata.txt，则会自动将谱面导入Visual Maimai，可在轨道区域里面看到。  
 "Open" only can choose song file (MP3/OGG),if the song file in the folder where there is maidata.txt or pv.mp4,Visual Maimai will automaticlly import the chart or PV.  
@@ -42,7 +42,7 @@ New ferature of 1.3.0,Can share the charts by intranet to collaborative create c
 #### Total Note Summary
 可以统计谱面内有多少Note，如下图：  
 Can summary how many notes do the charts have,example this:   
-![谱面统计SAMPLE](/en/photo/vmsummary.png)
+![SUMMARYSAMPLE](/en/photo/vmsummary.png)
 #### Fullscreen Preview/Export Video
 可以直接在Visual Maimai内全屏预览谱面，第二个可以导出视频。
 Can previev charts at Visual Maimai for fullscreen,the second one can export the chart video.  
@@ -50,7 +50,7 @@ Can previev charts at Visual Maimai for fullscreen,the second one can export the
 ### Edit
 点击编辑选项，你可以看到下面的菜单：  
 In edit opitions,you can see this:    
-![编辑](/en/photo/vmedit.png)
+![EDIT](/en/photo/vmedit.png)
 #### Undo/Redo
 可以把操作回退到上一步，或者把回退的操作恢复。
 #### Select All/Cancel Selection
@@ -59,57 +59,80 @@ It can select all notes where in the track,or cancel selection.
 #### Copy/Cut/Paste/Delete
 可以将你选中的note复制到VM自带的剪切板（剪切为将已经写上的Note删掉并复制），选择位置后粘贴。选中的地方可以按DEL删除。  
 It can let the selected note copy to copyboard,(Cut is remove and copy),then choose a place to paste. You can press DEL to remove notes if it's selected.
-#### 左右/上下翻转、顺时针/逆时针旋转45°
-- 翻转  
-将选中的Note左右/上下翻转，不保留未翻转前的note 
-例如：你写了一个8-7-6-5-4-3-2-1的B圈，上下翻转之后顺序就是：1-2-3-4-5-6-7-8
-- 旋转  
+#### Mirror L-R/U-D、Rotate (Anti-)clockwise by 45°
+- Mirror  
+将选中的Note左右/上下翻转，不保留未翻转前的note  
+Let the note you selected mirror for left-right/up-down,don't stay the note beforce mirrored   
+例如：你写了一个8-7-6-5-4-3-2-1的B圈，上下翻转之后顺序就是：1-2-3-4-5-6-7-8  
+For example:you writed a 8-7-6-5-4-3-2-1,after mirror U-D is:1-2-3-4-5-6-7-8  
+- Rotate  
 将选中的音符顺时针/逆时针旋转45°，不保留旋转前的note  
+let the note you selected rotate for (anti-)clockwise by 45°,don't stay the note beforce rotated
 例如：你写了一个8-7-6-5-4-3-2-1的B圈，顺时针之后顺序就是：1-8-7-6-5-4-3-2。
-#### 转换为/取消绝赞（星星）
-绝赞就是Break，可以给谱面增加1%的同步率，拍下之后有特殊音效。转换为绝赞后，Note会变成橙黄色（不同于双押） 。
-#### 添加（取消）保护套
+For example:you writed a 8-7-6-5-4-3-2-1,after rotate for clockwise by 45° is:1-8-7-6-5-4-3-2
+#### Change to/Remove Break
+绝赞就是Break，可以给谱面增加1%的同步率，拍下之后有特殊音效。转换为绝赞后，Note会变成橙黄色（不同于双押） 。  
+Break can add 1%'s sync to the chart,when you tap it,it have a special effect. after change to break,note will change color to orange.
+#### Apply (Remove) EX
 保护套可以让Note只有两个判定：非常完美（Critical Perfect）和错误（Miss），一般在B圈里面使用，可以套在绝赞（Break）上
-#### 上一个/下一个无理
-Visual Maimai自带无理检测，假设你写了一个2-3-4的三押，或者是5-6,3-2长条,4绝赞Tap（举例为宴琪露诺），那么就会在轨道区域旁提示，同时也可以在这里找。
+EX can let note have 2 judge:Critical Perfect and Miss, it also useable at Break.
+#### Next/last Impossible Note
+Visual Maimai自带无理检测，假设你写了一个2-3-4的三押，或者是5-6,3-2长条,4绝赞Tap（举例为宴琪露诺），那么就会在轨道区域旁提示，同时也可以在这里找。  
+Visual Maimai is have Impossible check,for example:you writed a 2-3-4 triple tap,then it will tip you aside of track,also you can find impossible at here.
 
-### 选项
+### Opitions
 点击选项菜单，可以看到下面的菜单：  
+In file options,you can see these:   
 ![选项](/photo/vm选项.png)
-#### 音量设置
-点开之后，会打开首选项，可以调整各个Note的音效音量、音乐音量、特效音量等。
-#### 偏好设置
-点开之后，会打开首选项，可以调整Tap/Touch的速度、轨道排列、频谱显示、节拍线对齐、无理检测等等。
-#### BPM计算器
+#### Volume Settings
+点开之后，会打开首选项，可以调整各个Note的音效音量、音乐音量、特效音量等。  
+Tap it,it will open prefernces,you can change every note's effect volume,song volume,special effect volume etc.
+#### Preference Settings
+点开之后，会打开首选项，可以调整Tap/Touch的速度、轨道排列、频谱显示、节拍线对齐、无理检测等等。  
+Tap it,it will open prefernces,you can change speed of Tap/Touch,note alignment,waweform etc.
+#### BPM Calculator
 可以通过按左键打节拍的方式算出BPM。
-#### 查看更新公告
+Can check BPM by tapping LMB.
+#### Update Notice
 可以看到这个版本的最新功能，以及移除了什么东西。
-#### 关于此软件
-显示了Visual Maimai的Stuff们，没有他们就没有Visual Maimai。  
-> 我的存在是因为大家的存在。  
-> ——*Ubuntu，一个非洲的传统价值观，同时也是Linux发行版Ubuntu的名字*
+It can check something new about this version,and who is removed(?wtf).
+#### About this software
+显示了Visual Maimai的Stuff们，没有他们就没有Visual Maimai。
+There is all stuffs of Visual Maimai,they are maker about Visual Maimai.  
+> I am because you are.  
+> ---- Ubuntu
 
-## Note编辑区域
-往中间看，可以看到Note的编辑区域。
-![vmnote编辑](/photo/vmnote编辑.png)
-我们一栏一栏看。
-### 编辑器设定
-在这里面，可以看到分音与缩放滑条。
-#### 分音
+## Note Info
+往中间看，可以看到Note的编辑区域。  
+The note info at the middle.
+![vmnoteinfo](/en/photo/vmnoteinfo.png)
+我们一栏一栏看。  
+We'll explain it each area.
+### Editor Settings
+在这里面，可以看到分音与缩放滑条。  
+In here,we can check beat divisor and resize.
+#### Beat Divisor
 > [!NOTE]
-> 由于写作者对乐理知识不全，需要他人辅助编辑该条目。  
+> 由于写作者对乐理知识不全，需要他人辅助编辑该条目。
+> BECAUSE IDK A LOT OF MUSIC,SO I NEED SOME HELP.    
 
 分音其实就是音乐的小拍，指一个拍子里面有多少分拍。
-#### 缩放
-一般用不到，但是如果你选的分音过高（32～64），你也许需要调整缩放。
-### Tap编辑
-在这里可以选择你需要放置的键盘类Note，同时进行一些设置。
+#### Resize
+一般用不到，但是如果你选的分音过高（32～64），你也许需要调整缩放。  
+Often useless,but if the beat divisor is too high (32-64),you may need to change it.
+### Tap Edit
+在这里可以选择你需要放置的键盘类Note，同时进行一些设置。  
+You can choose the Tap note you want to place,and change something.
 #### Tap  
 这是最简单也最基本的Note，在外键可以直接拍，也可以在内屏特定的判定区域触碰。  
-在写谱时，可以直接在轨道区域点击对应的轨道以放置Note。
+This is most basic's note,you can tap it at key,or on the screen.  
+在写谱时，可以直接在轨道区域点击对应的轨道以放置Note。  
+You can tap the track to pplace note.
 #### Hold  
 这也是特别基本的Note，在外键可以直接拍并长按，也可以在内屏特定的判定区域触碰并长按。  
+This is also a basic note,you can tap and hold it at key,or on the screen.
 在写谱时，需要在轨道区域先在需要放Note的地方点击一下，结束位置再点一下，不支持跨轨道。
+You need to place a startpoint,then place a endpoint. It can't cross the track
 #### Slide
 这是舞萌的自创Note，在外键可以直接拍，但是需要沿着箭头在内屏滑动，也可以在内屏特定的判定区域触碰并沿着箭头在内屏滑动。
 在写谱时，需要在轨道区域现在需要放Note的地方点击一下，结束位置再点一下，在预览窗口内滑动鼠标以设定滑动轨道。
