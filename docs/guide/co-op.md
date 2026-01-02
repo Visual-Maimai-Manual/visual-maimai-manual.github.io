@@ -25,4 +25,4 @@
 如果需要内网穿透，其实虚拟互联网方案更好（主要是写谱面写累了还可以玩别的游戏）。  
 
 由于篇幅可能过长，单开几文：
-- [Easytier（免费）](guide/easytier.md)
+- [Easytier（免费）](/guide/easytier.md)
