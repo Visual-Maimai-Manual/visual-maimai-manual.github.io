@@ -6,7 +6,7 @@ hero:
   name: "Visual Maimai文档"
   text: "一个关于可视化舞萌DX谱面制作工具Visual Maimai的教程文档"
   image:
-    src: /photo/favicon.ico
+    src: https://raw.githubusercontent.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/refs/heads/main/docs/photo/favicon.ico
     alt: icon
   tagline: 噎死那只羊！——tpz
   actions:
