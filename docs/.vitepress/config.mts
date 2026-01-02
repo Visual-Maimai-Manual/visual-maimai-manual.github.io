@@ -25,7 +25,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: "/favicon.ico",
+    logo: "https://raw.githubusercontent.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/refs/heads/main/public/favicon.ico",
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Visual-Maimai-Manual/visual-maimai-manual.github.io' },
       { icon: 'discord', link: 'https://discord.gg/R5eGkMk9Pj' }
