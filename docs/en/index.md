@@ -6,7 +6,7 @@ hero:
   name: "Visual Maimai User Manual"
   text: "A User Manual About Visualization Chart Maker For maimaiDX"
   image:
-    src: /photo/favicon.ico
+    src: https://raw.githubusercontent.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/refs/heads/main/docs/photo/favicon.ico
     alt: icon
   tagline: Let's 牛乳 DANCE!!!!!!! 
   actions:
