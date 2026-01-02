@@ -3,6 +3,7 @@ import { zhNav, enNav } from './nav'
 import { zhSidebar, enSidebar } from './sidebar'
 
 export default defineConfig({
+  base: '/',
   title: "Visual Maimai", 
   description: "A Manual About Visual Maimai", 
   locales: {
