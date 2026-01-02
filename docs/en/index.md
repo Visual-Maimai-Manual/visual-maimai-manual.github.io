@@ -5,9 +5,6 @@ layout: home
 hero:
   name: "Visual Maimai User Manual"
   text: "A User Manual About Visualization Chart Maker For maimaiDX"
-  image:
-    src: /docs/photo/favicon.ico
-    alt: icon
   tagline: Let's 牛乳 DANCE!!!!!!! 
   actions:
     - theme: brand
