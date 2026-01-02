@@ -13,7 +13,13 @@ export const zhSidebar: DefaultTheme.Sidebar = [
         items: [
           { text: 'Visual Maimai的页面', link: '/guide/gui' },
           { text: '制谱', link: '/guide/make-charts'}
-
+        ]
+        },
+      {
+        text: '谱面共享',
+        items: [
+          { text: '本地发起或加入', link: '/guide/co-op' },
+          { text: '内网穿透：Easytier', link: '/guide/easytier'}
         ]
         }
     ]
