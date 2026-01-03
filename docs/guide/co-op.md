@@ -26,3 +26,4 @@
 
 由于篇幅可能过长，单开几文：
 - [Easytier（中国大陆境内有服务器）](/guide/easytier.md)
+- [Zerotier（境外有服务器）]()
