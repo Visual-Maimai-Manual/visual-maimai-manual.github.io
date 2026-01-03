@@ -18,9 +18,9 @@ export const zhSidebar: DefaultTheme.Sidebar = [
         {
         text: '谱面共享',
         items: [
-          { text: '本地发起或加入', link: '/guide/co-op' },
-          { text: '内网穿透：Easytier', link: '/guide/easytier'},
-          { text: '内网穿透：Zerotier', link: '/guide/zerotier'},
+          { text: '本地发起或加入', link: '/co-op/co-op' },
+          { text: '内网穿透：Easytier', link: '/co-op/easytier'},
+          { text: '内网穿透：Zerotier', link: '/co-op/zerotier'},
         ]
         }
     ]
