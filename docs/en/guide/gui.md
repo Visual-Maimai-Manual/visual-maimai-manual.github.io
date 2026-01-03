@@ -72,7 +72,7 @@ let the note you selected rotate for (anti-)clockwise by 45°,don't stay the not
 For example:you writed a 8-7-6-5-4-3-2-1,after rotate for clockwise by 45° is:1-8-7-6-5-4-3-2
 #### Change to/Remove Break
 绝赞就是Break，可以给谱面增加1%的同步率，拍下之后有特殊音效。转换为绝赞后，Note会变成橙黄色（不同于双押） 。  
-Break can add 1%'s sync to the chart,when you tap it,it have a special effect. after change to break,note will change color to orange.
+Break can add 1% acc to the chart,when you tap it,it have a special effect. after change to break,note will change color to orange.
 #### Apply (Remove) EX
 保护套可以让Note只有两个判定：非常完美（Critical Perfect）和错误（Miss），一般在B圈里面使用，可以套在绝赞（Break）上
 EX can let note have 2 judge:Critical Perfect and Miss, it also useable at Break.
@@ -104,8 +104,8 @@ There is all stuffs of Visual Maimai,they are maker about Visual Maimai.
 
 ## Note Info
 往中间看，可以看到Note的编辑区域。  
-The note info at the middle.
-![vmnoteinfo](/en/photo/vmnoteinfo.png)
+The note info at the middle.  
+![vmnoteinfo](/en/photo/vmnoteinfo.png)  
 我们一栏一栏看。  
 We'll explain it each area.
 ### Editor Settings
@@ -129,61 +129,88 @@ This is most basic's note,you can tap it at key,or on the screen.
 在写谱时，可以直接在轨道区域点击对应的轨道以放置Note。  
 You can tap the track to pplace note.
 #### Hold  
-这也是特别基本的Note，在外键可以直接拍并长按，也可以在内屏特定的判定区域触碰并长按。  
+这也是特别基本的Note，在外键可以直接拍并长按，也可以在内屏特定的判定区域触碰并长按。    
 This is also a basic note,you can tap and hold it at key,or on the screen.
-在写谱时，需要在轨道区域先在需要放Note的地方点击一下，结束位置再点一下，不支持跨轨道。
+在写谱时，需要在轨道区域先在需要放Note的地方点击一下，结束位置再点一下，不支持跨轨道。  
 You need to place a startpoint,then place a endpoint. It can't cross the track
 #### Slide
-这是舞萌的自创Note，在外键可以直接拍，但是需要沿着箭头在内屏滑动，也可以在内屏特定的判定区域触碰并沿着箭头在内屏滑动。
-在写谱时，需要在轨道区域现在需要放Note的地方点击一下，结束位置再点一下，在预览窗口内滑动鼠标以设定滑动轨道。
-#### 绝赞（星星）
-绝赞可以给Tap、Hold、Slide（箭头绝赞使用绝赞星星）使用。绝赞就是Break，可以给谱面增加1%的同步率，拍下之后有特殊音效。转换为绝赞后，Note会变成橙黄色（不同于双押） 。
-#### 保护
-保护可与给Tap、Hold使用，保护套可以让Note只有两个判定：非常完美（Critical Perfect）和错误（Miss），一般在B圈里面使用，可以套在绝赞（Break）上
-#### 伪双押
-伪双押可以写出来一个双押而没有双押提示，适用于Tap、Hold。
-#### Wifi星星
-Wifi星星可以把星星从一条Slide改成覆盖多个判定区的扫屏，宴牛奶猫用的较多（在Let's 牛乳 Dance后的一段）
-#### 应用FESTiVAL特性
-选上这个选项后，可以把原本的只能绕弯的Slide改成可以多次折返的Slide。
-#### 一拍后启动星星
-把这个取消勾选，你点击一次Slide之后需要在开始滑动的地方再点一次。Altale是一个例子~~你先别急，让我先急~~
-#### 允许编辑星星尾
-这个是 maimai 的特性，星星启动拍
-默认为 1/4 拍,也就是当星星头拍下时间隔一个四分音星星才会启动。
-在官谱中除特殊演出、特殊效果外，基本不会改变星星启动拍。
+这是舞萌的自创Note，在外键可以直接拍，但是需要沿着箭头在内屏滑动，也可以在内屏特定的判定区域触碰并沿着箭头在内屏滑动。  
+You can tap it at key,and need to slide the arrow.
+在写谱时，需要在轨道区域现在需要放Note的地方点击一下，结束位置再点一下，在预览窗口内滑动鼠标以设定滑动轨道。  
+You need to place a startpoint,then place a endpoint. Set a slidetrack at preview window. 
+#### Break(Slide)
+绝赞可以给Tap、Hold、Slide（箭头绝赞使用绝赞星星）使用。绝赞就是Break，可以给谱面增加1%的同步率，拍下之后有特殊音效。转换为绝赞后，Note会变成橙黄色（不同于双押）。  
+Break can use for Tap,Hold,Slide (Slide arrow using "Break Slide"),it can add 1% acc for the charts.
+#### EX
+保护可以给Tap、Hold使用，保护套可以让Note只有两个判定：非常完美（Critical Perfect）和错误（Miss），一般在B圈里面使用，可以套在绝赞（Break）上  
+EX can use for Tap or Hold,EX can let note have 2 judge:Critical Perfect and Miss, it also useable at Break.
+#### Pseudo Each
+伪双押可以写出来一个双押而没有双押提示，适用于Tap、Hold。  
+Pseudo Each can write a double tap are not have each tip.
+#### Fan Slide
+Wifi星星可以把星星从一条Slide改成覆盖多个判定区的扫屏，宴牛奶猫用的较多（在Let's 牛乳 Dance后的一段）  
+Fan Slide can make a Slide cover lots of judge area.
+#### Apply FESTiVAL Slides
+选上这个选项后，可以把原本的只能绕弯的Slide改成可以多次折返的Slide。  
+It can let Slide muitiple folds. (WHO IS FUCKING WRITED 4pp1/6qq1!!!!!!!!)
+#### Slide after a Quarter Delay
+这个是 maimai 的特性，星星启动拍  
+默认为 1/4 拍,也就是当星星头拍下时间隔一个四分音星星才会启动。  
+在官谱中除特殊演出、特殊效果外，基本不会改变星星启动拍。    
+This is Maimai's speciality. It's often a quarter delay to start the Slide arrow.
 > [!IMPORTANT]
-> 新手写谱不建议乱改启动拍，一般保持开启即可。
+> 新手写谱不建议乱改启动拍，一般保持开启即可。  
+> I suggest greenhands don't change the delay.
 
-### Touch编辑
-Touch是在maimaiDX（熊代）的新增音符，可以在内屏的判定区内设置。由于一个手可以覆盖大部分的判定区，所以没有无理（除非Tap+Touch）。
+#### Allow Slide Editing 
+开启后对着星星点击鼠标中键可以选中星星进行修改。  
+If it's allowed,tap MMB,you can edit the Slide. 
+### Touch Edit
+Touch是在maimaiDX（熊代）的新增音符，可以在内屏的判定区内设置。由于一个手可以覆盖大部分的判定区，所以没有无理（除非Tap+Touch）。  
+Touch is a new note,it added at DX version.
 #### Touch 
-这是在熊代新加入的Note，可以在预览窗口内编辑。
+这是在熊代新加入的Note，可以在预览窗口内编辑。  
+Touch is a new note,it added at DX version. You can edit it at Preview Window.
 #### TouchHold
-这是~~Simon~~在熊代新加入的Note，可以在预览窗口内编辑。一般放在最中间的判定区。
-#### 烟花
-只适用于Touch Note的特效，在触碰/长按完成后会以该Touch为核心放出特效，一般用于TouchHold。
-### Note操作
-这一栏可以编辑Note。
-#### 复制/剪切/粘贴/删除
-可以将你选中的note复制到VM自带的剪切板（剪切为将已经写上的Note删掉并复制），选择位置后粘贴。选中的地方可以按DEL删除。
-#### 左右/上下翻转、顺时针/逆时针旋转45°
-- 翻转  
-将选中的Note左右/上下翻转，不保留未翻转前的note 
-例如：你写了一个8-7-6-5-4-3-2-1的B圈，上下翻转之后顺序就是：5-6-7-8-1-2-3-4
-- 旋转  
+这是~~Simon~~在熊代新加入的Note，可以在预览窗口内编辑。一般放在最中间的判定区。  
+This is ~~a new Simon~~ a new note added at DX version,it can edit at Preview Window,but you also need to place a endpoint.
+#### Firework
+只适用于Touch Note的特效，在触碰/长按完成后会以该Touch为核心放出特效，一般用于TouchHold。  
+A special effect only useable for Touch note,after touch/touchhold it will play a special effect.
+### Note Action
+这一栏可以编辑Note。  
+You can edit note at here.
+#### Copy/Cut/Paste/Delete
+可以将你选中的note复制到VM自带的剪切板（剪切为将已经写上的Note删掉并复制），选择位置后粘贴。选中的地方可以按DEL删除。  
+It can let the selected note copy to copyboard,(Cut is remove and copy),then choose a place to paste. You can press DEL to remove notes if it's selected.
+#### Mirror L-R/U-D、Rotate (Anti-)clockwise by 45°
+- Mirror  
+将选中的Note左右/上下翻转，不保留未翻转前的note  
+Let the note you selected mirror for left-right/up-down,don't stay the note beforce mirrored   
+例如：你写了一个8-7-6-5-4-3-2-1的B圈，上下翻转之后顺序就是：1-2-3-4-5-6-7-8  
+For example:you writed a 8-7-6-5-4-3-2-1,after mirror U-D is:1-2-3-4-5-6-7-8  
+- Rotate  
 将选中的音符顺时针/逆时针旋转45°，不保留旋转前的note  
+let the note you selected rotate for (anti-)clockwise by 45°,don't stay the note beforce rotated
 例如：你写了一个8-7-6-5-4-3-2-1的B圈，顺时针之后顺序就是：1-8-7-6-5-4-3-2。
-## 预览窗口及谱面选项
-### 预览窗口
-可以直接在这里面放置Note，Slide可以在这里面滑动，如果音乐文件夹内有pv.mp4，那么会自动将PV导入谱面内，并且在播放谱面时会同步播放PV。
-### 谱面信息编辑
+For example:you writed a 8-7-6-5-4-3-2-1,after rotate for clockwise by 45° is:1-8-7-6-5-4-3-2
+## Preview Window and Edit Chart Info
+### Preview Window
+可以直接在这里面放置Note，Slide可以在这里面滑动，如果音乐文件夹内有pv.mp4，那么会自动将PV导入谱面内，并且在播放谱面时会同步播放PV。  
+You can put note at here,you need to place slidearrow at here. If the floder have pv.mp4,it will import PV.
+### Edit Chart Info
 在这里可以编辑谱面的元数据，在某些时候会展示。  
-由于大部分都易懂，挑选一些需要解释的。
-#### 难度
-难度旁边有一个下拉菜单，点击后可以看到从Easy（初到真代）到Re:Master的难度选择，如果你已经写好了一个难度的谱面，则需要在这里更改一个难度以创作其他难度谱面。
-#### 偏移
-如果你的屏幕与声音有一定的偏移，可以在这里调整offset。
-## 轨道区域
+由于大部分都易懂，挑选一些需要解释的。  
+You can edit the chart's Metadata at here,sometimes you can see these.  
+We'll talk a little about it.
+#### Difficulty
+难度旁边有一个下拉菜单，点击后可以看到从Easy（初到真代）到Re:Master的难度选择，如果你已经写好了一个难度的谱面，则需要在这里更改一个难度以创作其他难度谱面。  
+It have a menu,in the menu you can see from Easy(Only useable at maimai to maimai FiNALE) to Re:Master's difficulty selection.
+#### Audio Shift
+如果你的屏幕与声音有一定的偏移，可以在这里调整offset。  
+If your screen have some offset,you can change it at here.
+## Track
 从中间往左看，可以看到轨道区域。  
-从左看下面的8～1代表的是按键序号，T代表的是Touch类Note轨道，旁边的BPM在导入乐曲之后会有显示，你需要自己调整，可以在[Songbpm](https://songbpm.com/)查找你所准备使用的音乐的BPM。
+The Track at the left.  
+从左看下面的8～1代表的是按键序号，T代表的是Touch类Note轨道，旁边的BPM在导入乐曲之后会有显示，你需要自己调整，可以在[Songbpm](https://songbpm.com/)查找你所准备使用的音乐的BPM。  
+From 1-8 is key number,T is Touch note track,the BPM aside when you imported the song,you need to change it.You can check BPM at [Songbpm](https://songbpm.com/).
