@@ -1,4 +1,7 @@
 # 内网穿透：Easytier
+> [!TIP]
+> Easytier其实更适合中国大陆内的联机写谱，如果你同时需要与处于中国大陆外的好友写谱，请使用[Zerotier](zerotier.md)
+
 Easytier是一个虚拟局域网工具，陶瓦联机（HMCL联机）也是基于Easytier。
 ## 下载
 可以在GitHub上面下载[Easytier](https://github.com/EasyTier/EasyTier/releases/tag/v2.4.5)

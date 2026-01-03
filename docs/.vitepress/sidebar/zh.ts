@@ -15,11 +15,12 @@ export const zhSidebar: DefaultTheme.Sidebar = [
           { text: '制谱', link: '/guide/make-charts'}
         ]
         },
-      {
+        {
         text: '谱面共享',
         items: [
           { text: '本地发起或加入', link: '/guide/co-op' },
-          { text: '内网穿透：Easytier', link: '/guide/easytier'}
+          { text: '内网穿透：Easytier', link: '/guide/easytier'},
+          { text: '内网穿透：Zerotier', link: '/guide/zerotier'},
         ]
         }
     ]
