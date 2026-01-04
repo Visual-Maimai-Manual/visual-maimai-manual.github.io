@@ -11,7 +11,7 @@ export const enSidebar: DefaultTheme.Sidebar = [
     {
      text: 'Get Started',
      items:[
-        { text: 'About Visual Maimai`s GUI', link: '/en/guide/gui'},
+        { text: 'About Visual Maimai\'s GUI', link: '/en/guide/gui'},
         { text: 'Make Charts', link: '/en/guide/make-charts'}
     ],
     
@@ -19,9 +19,9 @@ export const enSidebar: DefaultTheme.Sidebar = [
   {
   text: 'CO-OP',
         items: [
-          { text: 'Local Host or Join', link: '/en/guide/co-op' },
-          { text: 'NAT Traversal: Easytier', link: '/en/guide/easytier'},
-          { text: 'NAT Traversal: Zerotier', link: '/en/guide/zerotier'},
+          { text: 'Local Host or Join', link: '/en/co-op/co-op' },
+          { text: 'Intranet penetration: Easytier', link: '/en/co-op/easytier'},
+          { text: 'Intranet penetration: Zerotier', link: '/en/co-op/zerotier'},
         ]
         }
 ]

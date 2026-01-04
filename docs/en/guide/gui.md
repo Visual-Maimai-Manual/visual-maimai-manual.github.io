@@ -1,7 +1,4 @@
 # Visual Maimai's Interface
-> [!WARNING]
-> There is no translate now,but soon.
-
 > [!TIP]
 > 本文较长，推荐按照旁边的目录来快速阅读或者找到你所需要了解的地方。
 > This article is a bit long,I recommend following the list to find what do you need.
