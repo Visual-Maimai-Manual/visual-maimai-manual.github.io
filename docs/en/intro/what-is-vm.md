@@ -5,4 +5,6 @@ Visual Maimai allows chart creators to design custom charts solely with a mouse 
 # What is Simai language?
 Simai is a domain-specific scripting language created for designing custom beatmaps (also called charts) for the popular arcade rhythm game maimai DX.   
 However, the significant complexity and steep learning curve associated with Simai have long made custom maimai beatmap creation a challenging endeavor.  
-Visual Maimai addresses this by introducing a visual editor. It provides a real-time preview of the chart as it is being built, transforming the process. This allows creators to design and optimize beatmaps through an intuitive, visual workflow, significantly lowering the barrier to entry.
+Visual Maimai addresses this by introducing a visual editor. It provides a real-time preview of the chart as it is being built, transforming the process. This allows creators to design and optimize beatmaps through an intuitive, visual workflow, significantly lowering the barrier to entry.  
+# Notice 
+In English Manual,maybe have Chinese,because my english is not very good,we need to contrast.
