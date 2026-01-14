@@ -1,6 +1,6 @@
 ![visual maimai intro](docs/photo/vmheadphoto.jpg)  
 [简体中文](README.md)  
-[![Lisence](https://img.shields.io/badge/CC_BY_NC_SA-grey?style=for-the-badge&logo=creativecommons&logoColor=white)][ccbyncsa]
+[![Lisence](https://img.shields.io/badge/CC_BY--NC--SA-grey?style=for-the-badge&logo=creativecommons&logoColor=white)][ccbyncsa]
 ![QQ](https://img.shields.io/badge/QQ_947421931-blue?style=for-the-badge&logo=qq&logoColor=white)
 [![Github](https://img.shields.io/badge/Latest-1.3.0-brightgreen?style=for-the-badge&logo=github
 )](https://github.com/CH3COOOHH/Visual-Maimai-Release/releases)
