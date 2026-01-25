@@ -5,7 +5,8 @@ export const zhSidebar: DefaultTheme.Sidebar = [
         text: '简介',
         items: [
           { text: '什么是Visual Maimai', link: '/intro/what-is-vm' },
-          { text: '下载Visual Maimai', link: '/intro/download' }
+          { text: '下载Visual Maimai', link: '/intro/download' },
+          { text: '制作语言包', link: '/guide/make-langpack' }
         ]
       },
       {

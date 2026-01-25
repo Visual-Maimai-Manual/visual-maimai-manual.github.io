@@ -6,7 +6,8 @@ export const enSidebar: DefaultTheme.Sidebar = [
     items: [
       { text: 'What is Visual Maimai', link: '/en/intro/what-is-vm' },
       { text: 'Download Visual Maimai', link: '/en/intro/download' },
-      { text: 'Change To English', link: '/en/guide/change-lang'}
+      { text: 'Change To English', link: '/en/guide/change-lang'},
+      { text: 'Make Language Pack', link: '/en/guide/make-langpack' }
     ]
     },
     {
