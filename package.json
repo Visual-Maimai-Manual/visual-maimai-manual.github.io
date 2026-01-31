@@ -1,5 +1,10 @@
 {
   "devDependencies": {
+    "@types/node": "^25.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sharp": "^0.34.5",
+    "url": "^0.11.4",
     "vitepress": "^1.6.4"
   },
   "scripts": {
