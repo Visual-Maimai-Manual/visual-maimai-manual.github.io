@@ -92,20 +92,6 @@
          id="stop2"
          style="stop-color:#6ef0ef;stop-opacity:1;" /></linearGradient></defs><style
      id="style2">
-    /* 使用 Web 字体定义字体家族 */
-    @font-face {
-      font-family: &quot;NotoSans SC&quot;;
-src: url(https://fonts.gstatic.com/s/notosanssc/v40/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.4.woff2) format('woff2');
-    }
-    /* 装饰文本 */
-    text {
-      /* 指定使用的系统字体或自定义字体 */
-      font-family: &quot;FiraSans&quot;, sans-serif;
-
-      /* 添加其他样式 */
-      font-weight: normal;
-      font-style: normal;
-    }
   </style><rect
      width="2483.1409"
      height="1295.9528"
