@@ -77,11 +77,11 @@
        height="190.99908"
        id="rect5" /><linearGradient
        id="bgGradient"
-       x1="0"
-       y1="0"
-       x2="1738.9652"
-       y2="1738.9652"
-       gradientTransform="matrix(1.3801311,0,0,0.72456884,2.247048,4.494096)"
+       x1="-47.216087"
+       y1="-52.720757"
+       x2="1792.6938"
+       y2="1807.192"
+       gradientTransform="matrix(1.4279416,0,0,0.74524361,-49.435059,-11.23524)"
        gradientUnits="userSpaceOnUse"><stop
          offset="0"
          stop-color="grey"
@@ -94,7 +94,7 @@
      id="style2">
     /* 使用 Web 字体定义字体家族 */
     @font-face {
-      font-family: &quot;Noto Sans SC&quot;;
+      font-family: &quot;NotoSans SC&quot;;
 src: url(https://fonts.gstatic.com/s/notosanssc/v40/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.4.woff2) format('woff2');
     }
     /* 装饰文本 */
@@ -107,13 +107,13 @@ src: url(https://fonts.gstatic.com/s/notosanssc/v40/k3kXo84MPvpLmixcA63oeALhLOCT
       font-style: normal;
     }
   </style><rect
-     width="2400"
-     height="1260"
+     width="2483.1409"
+     height="1295.9528"
      fill="url(#bgGradient)"
      id="rect2"
-     style="fill:url(#bgGradient)"
-     x="2.2470484"
-     y="4.4940958" /><g
+     style="fill:url(#bgGradient);stroke-width:1.03158"
+     x="-49.435055"
+     y="-11.23524" /><g
      transform="translate(160, 0)"
      id="g4"><text
    x="0.52543873"
@@ -126,7 +126,7 @@ src: url(https://fonts.gstatic.com/s/notosanssc/v40/k3kXo84MPvpLmixcA63oeALhLOCT
    id="text2"
    transform="scale(1.063234,0.9405267)"
    style="stroke-width:0.810209;-inkscape-font-specification:'Noto Sans';font-family:'Noto Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">{{title}}</text><text
-   x="1.54403"
+   x="-141.56403"
    y="1144.2579"
    font-family="Noto Sans SC, sans-serif"
    font-size="72px"
@@ -134,7 +134,7 @@ src: url(https://fonts.gstatic.com/s/notosanssc/v40/k3kXo84MPvpLmixcA63oeALhLOCT
    fill="#e0e7ff"
    text-anchor="start"
    id="text3"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"> From Visual Maimai Manual  </text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#efe0ff;fill-opacity:1">       From Visual Maimai Manual  </text>
   <text
    x="0"
    y="1200"
