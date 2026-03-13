@@ -5,6 +5,22 @@
       <stop offset="100%" stop-color="grey" />
     </linearGradient>
   </defs>
+   <style>
+    /* 使用 Web 字体定义字体家族 */
+    @font-face {
+      font-family: "NotoSans SC";
+src: url(https://fonts.gstatic.com/s/notosanssc/v40/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.4.woff2) format('woff2');
+    }
+    /* 装饰文本 */
+    text {
+      /* 指定使用的系统字体或自定义字体 */
+      font-family: "FiraSans", sans-serif;
+
+      /* 添加其他样式 */
+      font-weight: normal;
+      font-style: normal;
+    }
+  </style>
   <rect width="2400" height="1260" fill="url(#bgGradient)"/>
   <g transform="translate(160, 0)">
     <text x="0" y="500" font-family="Noto Sans SC,sans-serif" font-size="144" font-weight="500" fill="#ffffff" text-anchor="start">
