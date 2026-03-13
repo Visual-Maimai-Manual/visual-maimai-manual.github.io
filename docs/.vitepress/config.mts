@@ -1,16 +1,16 @@
 import { defineConfig } from 'vitepress'
 import { zhNav, enNav } from './nav'
 import { zhSidebar, enSidebar } from './sidebar'
-import makeOG from './og/makeOG'
+import { addOgImage } from 'vitepress-plugin-og'
 
 const siteUrl = (process.env.SITE_URL || 'https://visual-maimai-manual.github.io').replace(/\/$/, '')
 const buildTimestamp = process.env.BUILD_TIMESTAMP || Date.now().toString()
-const transformPageData = makeOG(siteUrl, buildTimestamp)
+
+
 export default defineConfig({
   base: '/',
   title: "Visual Maimai", 
   description: "A Manual About Visual Maimai", 
-  transformPageData,
   locales: {
     root: {
       label: '中文（简体）',
@@ -29,6 +29,13 @@ export default defineConfig({
         sidebar: enSidebar,
       }
     }
+  },
+    async transformPageData(pageData, context) {
+    await addOgImage(pageData, context, 
+      {
+      domain: 'https://visual-maimai-manual.github.io/',
+      ogTemplate: 'docs/.vitepress/og-template.svg'
+      });
   },
   themeConfig: {
     logo: "https://raw.githubusercontent.com/Visual-Maimai-Manual/visual-maimai-manual.github.io/refs/heads/main/public/favicon.ico",
