@@ -61,7 +61,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Software made by CH3COOOHH',
-      copyright: '©SEGA All rights reserved'
+      copyright: '©SEGA All rights reserved | This website is using CC BY-NC-SA Lisence.'
     }
   }
 })
