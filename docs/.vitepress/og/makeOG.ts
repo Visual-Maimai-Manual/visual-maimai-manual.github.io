@@ -15,7 +15,7 @@ export default function makeOG(siteUrl: string, buildTimestamp: string | number)
 			}
 
 			// 為有標題的頁面生成 OG 圖片（排除首頁）
-			if (pageData.title && pageData.title !== 'Kuro Hsu 的筆記') {
+			if (pageData.title && pageData.title !== 'Visual Maimai Manual') {
 				const ogImagePath = `/og/${pageData.relativePath.replace(/\.md$/, '.png')}`
 				const outputPath = path.join(process.cwd(), 'docs/public', ogImagePath)
 
