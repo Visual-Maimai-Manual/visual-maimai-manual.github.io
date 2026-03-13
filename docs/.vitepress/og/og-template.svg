@@ -1,11 +1,5 @@
 <svg width="2400" height="1260" viewBox="0 0 2400 1260" xmlns="http://www.w3.org/2000/svg">
   <defs>
-  <style>
-      @font-face {
-        font-family: 'Noto Sans SC';
-        src: url('file:///docs/.vitepress/og/NotoSansSC-Medium.otf');
-      }
-    </style>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="grey" />
       <stop offset="100%" stop-color="grey" />
@@ -13,7 +7,7 @@
   </defs>
   <rect width="2400" height="1260" fill="url(#bgGradient)"/>
   <g transform="translate(160, 0)">
-    <text x="0" y="500" font-family="Noto Sans SC, sans-serif" font-size="144" font-weight="500" fill="#ffffff" text-anchor="start">
+    <text x="0" y="500" font-family="Noto Sans SC,sans-serif" font-size="144" font-weight="500" fill="#ffffff" text-anchor="start">
       {{title}}
     </text>
     <text x="0" y="960" font-family="Noto Sans SC, sans-serif" font-size="72" font-weight="400" fill="#e0e7ff" text-anchor="start">
