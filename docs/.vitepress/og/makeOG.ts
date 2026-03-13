@@ -38,11 +38,10 @@ export default function makeOG(siteUrl: string, buildTimestamp: string | number)
 					['meta', { property: 'og:image:width', content: '1200' }],
 					['meta', { property: 'og:image:height', content: '630' }],
 					['meta', { property: 'og:title', content: pageData.title }],
-					['meta', { property: 'og:description', content: pageData.description || pageData.frontmatter.description || '技術筆記、學習紀錄與生活記錄' }],
 					['meta', { property: 'twitter:card', content: 'summary_large_image' }],
 					['meta', { property: 'twitter:image', content: ogImageUrl }],
 					['meta', { property: 'twitter:title', content: pageData.title }],
-					['meta', { property: 'twitter:description', content: pageData.description || pageData.frontmatter.description || '技術筆記、學習紀錄與生活記錄' }]
+
 				)
 			}
 		} catch (error) {
