@@ -82,7 +82,7 @@ export async function generateOgImage(title: string, outputPath: string): Promis
     lines.forEach((line, index) => {
       const y = startY + (index * lineHeight)
       textElements += `
-      <text x="0" y="${y}" font-family="Noto Sans TC, sans-serif" font-size="144" font-weight="500" fill="#ffffff" text-anchor="start">
+      <text x="0" y="${y}" font-family="Noto Sans SC, sans-serif" font-size="144" font-weight="500" fill="#ffffff" text-anchor="start">
         ${escapeXml(line)}
       </text>`
     })
