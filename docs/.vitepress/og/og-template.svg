@@ -82,7 +82,7 @@
     <text
        x="0"
        y="500"
-       font-family="Noto Sans SC, Heiti SC, sans-serif"
+       font-family="PingFang SC, Microsoft Yahei, Noto Sans SC, Heiti SC, sans-serif"
        font-size="144"
        font-weight="500"
        fill="#ffffff"
@@ -93,7 +93,7 @@
     <text
        x="0"
        y="960"
-       font-family="Noto Sans SC, Heiti SC, sans-serif"
+       font-family="PingFang SC, Microsoft Yahei, Noto Sans SC, Heiti SC, sans-serif"
        font-size="72"
        font-weight="400"
        fill="#e0e7ff"
@@ -107,7 +107,7 @@
     <text
        x="0"
        y="1200"
-       font-family="Noto Sans SC, Heiti SC, sans-serif"
+       font-family="PingFang SC, Microsoft Yahei, Noto Sans SC, Heiti SC, sans-serif"
        font-size="56"
        font-weight="400"
        fill="#c7d2fe"
