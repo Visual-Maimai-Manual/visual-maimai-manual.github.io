@@ -8,6 +8,7 @@
 )](https://discord.gg/R5eGkMk9Pj)
 [![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=github)](https://github.com/CH3COOOHH/Visual-Maimai-Release)
 ![Netlify](https://img.shields.io/netlify/7428ad9b-7825-435d-b0ee-ffa8b97b9d5e?style=for-the-badge&logo=netlify)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/vis-mai-manual?style=for-the-badge)
 # Visual Maimai是什么
 Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视化的操作方式，将舞萌DX自制谱的难度降低。  
 神奇的vm纺纱机会将可视化和simai融为一体，这不神奇吗，点击[链接](https://github.com/CH3COOOHH/Visual-Maimai-Release)获取一个获取一个获取一个获取一个（绝美jiafei叫声）
@@ -16,6 +17,8 @@ Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视�
 )](https://visual-maimai-manual.github.io/)  
 [![Netlify](https://img.shields.io/badge/Netlify%E9%95%9C%E5%83%8F-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&logoSize=auto)
 ](https://vis-mai-manual.netlify.app/)  
+[![Vercel](https://img.shields.io/badge/Vercel%E9%95%9C%E5%83%8F-white?style=for-the-badge&logo=vercel&logoColor=black)
+](https://vis-mai-manual.vercel.app/)  
 [![Discord](https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/R5eGkMk9Pj)  
 ![QQ](https://img.shields.io/badge/QQ_947421931-blue?style=for-the-badge&logo=qq&logoColor=white)  
 # 作出修改/贡献
