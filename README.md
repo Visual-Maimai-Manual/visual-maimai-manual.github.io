@@ -13,8 +13,10 @@
 Visual Maimai是一个舞萌DX自制谱可视化制作工具，由于其可视化的操作方式，将舞萌DX自制谱的难度降低。  
 神奇的vm纺纱机会将可视化和simai融为一体，这不神奇吗，点击[链接](https://github.com/CH3COOOHH/Visual-Maimai-Release)获取一个获取一个获取一个获取一个（绝美jiafei叫声）
 # 开始阅读
-[![GP文档](https://img.shields.io/badge/在线文档-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
-)](https://visual-maimai-manual.github.io/)  
+<!--主要网站，指如果发生部署错误，优先保护Github Pages，Vercel和GP使用同样的技术所以GP修复后Vercel理应修复。-->
+
+[![GP文档](https://img.shields.io/badge/主要网站-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
+)](https://visual-maimai-manual.github.io/)   
 [![Netlify](https://img.shields.io/badge/Netlify%E9%95%9C%E5%83%8F-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&logoSize=auto)
 ](https://vis-mai-manual.netlify.app/)  
 [![Vercel](https://img.shields.io/badge/Vercel%E9%95%9C%E5%83%8F-white?style=for-the-badge&logo=vercel&logoColor=black)

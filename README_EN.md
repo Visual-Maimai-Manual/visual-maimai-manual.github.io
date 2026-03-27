@@ -14,7 +14,9 @@ Visual Maimai (aka VM) is a based on Unity's visualization community chart maker
 [![Github Badge](https://img.shields.io/badge/Get_it_on_Github-grey?style=for-the-badge&logo=github
 ) ](https://github.com/CH3COOOHH/Visual-Maimai-Release)
 # Start Reading
-[![GP Document](https://img.shields.io/badge/Document-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
+<!--Main Website,mean if have deploy error,fix Main Website first.-->
+
+[![GP](https://img.shields.io/badge/Main_website-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
 )](https://visual-maimai-manual.github.io/)  
 [![Netlify](https://img.shields.io/badge/Netlify_Mirror-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&logoSize=auto)
 ](https://vis-mai-manual.netlify.app/)  
