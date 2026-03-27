@@ -1,6 +1,6 @@
-import { defineConfig } from 'vitepress'
-import { zhNav, enNav } from './nav'
-import { zhSidebar, enSidebar } from './sidebar'
+import { defineConfig } from 'vitepress' // Vitepress configuration file
+import { zhNav, enNav } from './nav' // Nav Bar, imported from nav.ts
+import { zhSidebar, enSidebar } from './sidebar' // Sidebar, imported from sidebar/index.ts
 
 
 export default defineConfig({
@@ -37,8 +37,10 @@ export default defineConfig({
       provider: 'local',
     },
     footer: {
-      message: 'Software made by CH3COOOHH | The software is an unofficial hobby project and is not affiliated with SEGA.',
+      message: 'Software made by CH3COOOHH | The software is an unofficial hobby project and is not affiliated with SEGA.',  // Copyright
       copyright: '©SEGA All rights reserved | This website is using CC BY-NC-SA License.'
     }
   }
 })
+// 快去感谢CH3COOOHH大佬在百忙之中维护Visual Maimai口牙！！！！！！！！！
+// Thanks to CH3COOOHH for coding Visual Maimai in his busy schedule!!!!!!!!!!!!!!
