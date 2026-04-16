@@ -3,7 +3,6 @@
     "@types/node": "^25.1.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
-    "sharp": "^0.34.5",
     "url": "^0.11.4",
     "vitepress": "^1.6.4"
   },
@@ -11,5 +10,10 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "node-addon-api": "^8.6.0",
+    "node-gyp": "^12.2.0",
+    "sharp": "^0.34.5"
   }
 }

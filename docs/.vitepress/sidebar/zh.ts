@@ -22,6 +22,8 @@ export const zhSidebar: DefaultTheme.Sidebar = [
           { text: '本地发起或加入', link: '/co-op/co-op' },
           { text: '内网穿透：Easytier', link: '/co-op/easytier'},
           { text: '内网穿透：Zerotier', link: '/co-op/zerotier'},
+          { text: '内网穿透：Astral', link: '/co-op/astral'}
         ]
         }
     ]
+    // 啦啦啦啦埋彩蛋喵 (=^･ω･^=)

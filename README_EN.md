@@ -7,17 +7,24 @@
 [![Discord](https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=Discord&logoColor=white
 )](https://discord.gg/R5eGkMk9Pj)
 [![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=github)](https://github.com/CH3COOOHH/Visual-Maimai-Release)
-
+![Netlify](https://img.shields.io/netlify/7428ad9b-7825-435d-b0ee-ffa8b97b9d5e?style=for-the-badge&logo=netlify)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/vis-mai-manual?style=for-the-badge)
 # What is Visual Maimai?
 Visual Maimai (aka VM) is a based on Unity's visualization community chart maker for [maimaiDX](https://en.wikipedia.org/wiki/Maimai_(video_game_series)) made by CH3COOOHH, released at Sep.,17,2024.  
 [![Github Badge](https://img.shields.io/badge/Get_it_on_Github-grey?style=for-the-badge&logo=github
 ) ](https://github.com/CH3COOOHH/Visual-Maimai-Release)
 # Start Reading
-[![Document](https://img.shields.io/badge/Document-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
+<!--Main Website,mean if have deploy error,fix Main Website first.-->
+
+[![GP](https://img.shields.io/badge/Main_website-white?style=for-the-badge&logo=githubpages&logoColor=black&logoSize=auto
 )](https://visual-maimai-manual.github.io/)  
+[![Netlify](https://img.shields.io/badge/Netlify_Mirror-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&logoSize=auto)
+](https://vis-mai-manual.netlify.app/)  
+[![Vercel](https://img.shields.io/badge/Vercel_Mirror-white?style=for-the-badge&logo=vercel&logoColor=black)
+](https://vis-mai-manual.vercel.app/)  
 [![Discord](https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/R5eGkMk9Pj)  
 ![QQ](https://img.shields.io/badge/QQ_947421931-blue?style=for-the-badge&logo=qq&logoColor=white)  
-# 作出修改/贡献
+# Contribution
 If you find some wrong about the document,welcome to fix.
 > **NOTE** <br>
 > Please install git first and you need to learn Markdown.
