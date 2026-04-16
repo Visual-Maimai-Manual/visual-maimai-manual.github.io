@@ -1,7 +1,7 @@
 # Make a Language Pack
-As now,Visual Maimai's official support language is have Chinese (Simplified) and EN only,if there's don't have your language and if you want,welcome to tranlsate it.  
+For now, Visual Maimai's official supported languages are Chinese (Simplified) and English only. If a language you want to use the software with is absent, you are most welcome to chip in and translate it to said language.  
   
-Visual Maimai's language pack always at ```(SOFTWARE DIR.)\Languages\```.  
+Visual Maimai's language pack is at ```(SOFTWARE DIR.)\Languages\```.  
 Visual Maimai's language pack is INI formated,like this:  
 ```
 English
@@ -13,4 +13,4 @@ note_act=Note Action
 ```  
 The first line is the language pack's name,also display at "Preference--Language".  
   
-After complete,please send it to Discord official server's corresponding general channel,then collect feedback and change it.
+After complete, feel free to send it in the official Discord server in #general, where we will provide you feedback regarding the translation you have produced until the final manuscript is ready for release.
