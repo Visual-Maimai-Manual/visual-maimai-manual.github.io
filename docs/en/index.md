@@ -16,6 +16,9 @@ hero:
     - theme: brand
       text: Download
       link: /en/intro/download
+    - theme: brand
+      text: Donate
+      link: /en/donate/donate
 
 features:
   - title: Place the Notes
